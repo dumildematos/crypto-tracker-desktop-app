@@ -1,0 +1,23 @@
+{
+    "name": "crypto-tracker-desktop-app",
+    "version": "1.0.0",
+    "description": "Electronjs Crypto Tracker",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dumildematos/crypto-tracker-desktop-app.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/dumildematos/crypto-tracker-desktop-app/issues"
+    },
+    "homepage": "https://github.com/dumildematos/crypto-tracker-desktop-app#readme",
+    "devDependencies": {
+        "electron": "12.0.0"
+    }
+}
